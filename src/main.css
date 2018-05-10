@@ -1,0 +1,8 @@
+* {
+  background-color: green;
+}
+img {
+  /* to tilt my image */
+height: 25 vh;
+transform: rotate(20deg);
+}
