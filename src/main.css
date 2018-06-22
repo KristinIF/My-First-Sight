@@ -1,8 +1,17 @@
 * {
-  background-color: green;
+  background-color: lightblue;
 }
-img {
+.profile img {
   /* to tilt my image */
 height: 25 vh;
-transform: rotate(20deg);
+transform: rotate(90deg);
+margin: auto;
+display: block;
+}
+.transition {
+  font-family: fantasy;
+  font-size: 24px;
+}
+.hero-img {
+  outline-style: dashed;
 }
